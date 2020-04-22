@@ -1,0 +1,2 @@
+Repozytorium zawiera program znajdujący minium lokalne funkcji jednej zmiennej po metodą złotego podziału. Metoda złotego podziału charakteryzuje się dobrą zbieżnością przy prostocie obliczeń, co znacznie przyspiesza jej działanie. Jednak przy dużej dokładności szybkość zbieżności jest niewielka.
+Dla ciągłej funkcji f(x) w przedziale (a,b) posiadającej w tym przedziale jedno ekstremum (czyli unimodalnej) można je określić przez znalezienie z określoną dokładnością przedziału, w którym ono się znajduje
