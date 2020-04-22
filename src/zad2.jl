@@ -1,6 +1,6 @@
 module zad2
 
-function zad2(funk,xL,xU;ep=1e-8,golden=0.618)
+function zad22(funk,xL,xU;ep=1e-8,golden=0.618)
               fa=funk(xL)
               fb=funk(xU)
               x1=xU-((xU-xL)*(golden))
@@ -27,6 +27,6 @@ function zad2(funk,xL,xU;ep=1e-8,golden=0.618)
        return(round(funk(Xmin),digits=2),round(Xmin,digits=2))
        end
 	   
-export zad2
+export zad22
 
 end # module
